@@ -1,0 +1,23 @@
+{
+	"name": "Primal/Uploaded",
+	"description": "Sanity wrapper Class for the $_FILES superglobal",
+	"homepage": "http://github.com/Primal/Uploaded",
+	"license": "MIT",
+	"keywords": ["http", "files", "uploads"],
+	"authors": [
+		{
+			"name": "Jarvis Badgley",
+			"homepage": "http://chipersoft.com",
+			"email": "primal@chipersoft.com"
+		}
+	],
+	"require": {
+		"php": ">=5.3.10"
+	},
+	"type": "library",
+	"autoload": {
+        "psr-0": {
+            "Primal": "lib\/"
+        }
+    }
+}
