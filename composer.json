@@ -1,5 +1,5 @@
 {
-	"name": "Primal/Uploaded",
+	"name": "primal/uploaded",
 	"description": "Sanity wrapper Class for the $_FILES superglobal",
 	"homepage": "http://github.com/PrimalPHP/Uploaded",
 	"license": "MIT",
@@ -19,5 +19,10 @@
         "psr-0": {
             "Primal": "lib\/"
         }
-    }
+    },
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0"
+		}
+	}
 }
