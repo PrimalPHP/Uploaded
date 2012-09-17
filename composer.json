@@ -1,7 +1,7 @@
 {
 	"name": "Primal/Uploaded",
 	"description": "Sanity wrapper Class for the $_FILES superglobal",
-	"homepage": "http://github.com/Primal/Uploaded",
+	"homepage": "http://github.com/PrimalPHP/Uploaded",
 	"license": "MIT",
 	"keywords": ["http", "files", "uploads"],
 	"authors": [
